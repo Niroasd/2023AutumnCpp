@@ -1,2 +1,6 @@
 myprogram.exe
 .vscode
+# Executables
+*.exe
+*.out
+*.app
